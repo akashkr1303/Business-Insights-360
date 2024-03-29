@@ -1,20 +1,18 @@
-# Power_BI_Report
-## Project Title -
-Business Insights 360
+# Business Insights 360
 
 
 ## Project Objective -
 To build and customise a multi-functional Power BI Report for AtliQ Hardwares that can enable stakeholders from different departments to draw detailed insight make data-informed decisions and drive business growth across regions. Demonstrate the trends and impact of various KPIs on the performance of the business.
 
 
-## Business Model Overview: 
+## Business Model Overview -
 AtliQ Hardware is a manufacturer specializing in computer hardware, accessories, storage, and networking devices. They distribute their products through various channels, including online platforms like Amazon, Flipkart, Walmart, and direct retail stores across different regions. 
 
 ## Project Outline -
 Designed and customised a Power BI Dashboard with 5 different views - (Finance, Sales, Marketing, Supply Chain View, Executive) which analyzes business metrics related to a specific department and provides actionable insights. Utilized DAX to create measures and calculated columns used to build visualisations for different views and also optimized the report by 10%. 
 
 
-## Project Description:
+## Project Description -
 
 
 ### 1. Finance View: Outlines the financial performance of the business based on different selections like fiscal year, quarters, targets or LY (last year). It includes visuals like
