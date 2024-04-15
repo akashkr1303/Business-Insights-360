@@ -1,5 +1,6 @@
-# Business Insights 360
+# Business Insights 360 - AtliQ Hardware
 
+### Click [here](https://app.powerbi.com/view?r=eyJrIjoiNDI0NmE2YzMtOTYwOS00MzFjLTllMWUtZmQ2MTZhNWE2ODMwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) to view the live interactive Power BI dashboard
 
 ## Project Objective:
 To develop a multi-functional Power BI dashboard for AtliQ Hardware that can enable stakeholders to draw detailed insight and make data-informed decisions. The company cannot rely on Excel for its data-related needs and it wants to transition to Power BI for its analytics needs to help drive business growth.
